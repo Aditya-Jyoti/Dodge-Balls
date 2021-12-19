@@ -1,5 +1,7 @@
 # Dodge-Balls
 
+### Note: the game is not as slow as observed in the video below, it got messed up during conversion to gif format
+
 ![Watch the video](assets/dodge-balls.gif)
 
 ## About
